@@ -22,25 +22,7 @@ Mobile-First Design: Fully optimized for on-the-go business management
 Main Sections
 Inventory Page: View and manage all your products, update stock levels, and add new items
 Orders Page: Process incoming orders, track order status, and manage customer information
-Project Structure
-LoopLog/
-├── lib/
-│   ├── main.dart                    # Application entry point
-│   ├── InventoryPage.dart           # Inventory management UI
-│   ├── OrdersPage.dart              # Orders management UI
-│   └── [other Dart files]           # Additional features
-├── android/                         # Android-specific code
-├── ios/                             # iOS-specific code
-├── web/                             # Web build files
-├── windows/                         # Windows build files
-├── macos/                           # macOS build files
-├── linux/                           # Linux build files
-├── test/                            # Unit and widget tests
-├── pubspec.yaml                     # Project dependencies
-├── pubspec.lock                     # Dependency lock file
-├── analysis_options.yaml            # Dart analysis configuration
-├── README.md                        # This file
-└── .gitignore                       # Git ignore rules
+
 Technologies
 
 Flutter: Cross-platform UI framework
